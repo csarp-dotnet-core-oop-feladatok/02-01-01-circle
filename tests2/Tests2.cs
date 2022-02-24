@@ -13,7 +13,7 @@ using CircleProject.Models;
 namespace CircleProject.Tests
 {
     [TestClass()]
-    public class Tests2
+    public class TestsException
     {
         [TestMethod()]
         public void TestCircle()
